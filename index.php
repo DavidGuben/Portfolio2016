@@ -110,7 +110,7 @@
                 <div class="col-md-6 text-center">
                     <h1>Hi, I'm David Guben</h1>
                     <hr class="colored">
-                    <p>I am a freelance web designer, developer, and photographer based in NYC. I am a self-trained professional with a background in web design and full-stack development.</p>
+                    <p>I am a freelance web/app designer and developer based in NYC. I am a self-taught professional with a background in web design and full-stack development.</p>
                     <p>I'm available for graphic design, web design, web development and app development. Contact me <a class="page-scroll" href="#contact">here</a> to hire me.</p>
                 </div>
             </div>

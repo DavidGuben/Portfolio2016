@@ -99,7 +99,7 @@
                     <h1>Hi, I'm David Guben</h1>
                     <hr class="colored">
                     <p>I am a freelance web/app designer and developer based in NYC. I am a self-taught professional with a background in web design and full-stack development.</p>
-                    <p>I'm available for graphic design, web design, web development and app development. Contact me <a class="page-scroll" href="#contact">here</a> to hire me.</p>
+                    <p>I'm available for graphic design, web design, web development and app development. You can contact me <a class="page-scroll" href="#contact">here</a>.</p>
                 </div>
             </div>
         </div>
@@ -350,7 +350,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>Contact Me</h2>
                     <hr class="colored">
-                    <p>I'd love to hear about work opportunities! Send me a message and I will respond as soon as possible.</p>
+                    <p>I like to hear about work opportunities! Send me a message and I will respond as soon as possible.</p>
                 </div>
             </div>
             <div class="row content-row">

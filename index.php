@@ -29,26 +29,8 @@
     <link href="assets/css/plugins/magnific-popup.css" rel="stylesheet" type="text/css">
     <link href="assets/css/plugins/background.css" rel="stylesheet" type="text/css">
     <link href="assets/css/plugins/animate.css" rel="stylesheet" type="text/css">
-    <!-- Vitality Theme CSS -->
-    <!-- Uncomment the color scheme you want to use. -->
-    <!-- <link href="assets/css/vitality-red.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-aqua.css" rel="stylesheet" type="text/css"> -->
     <link href="assets/css/vitality-blue.css" rel="stylesheet" type="text/css">
-    <!-- <link href="assets/css/vitality-green.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-orange.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-pink.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-purple.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-tan.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-turquoise.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="assets/css/vitality-yellow.css" rel="stylesheet" type="text/css"> -->
-    <!-- IE8 support for HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
 </head>
-<!-- Alternate Body Classes: .modern and .vintage -->
-
 <body id="page-top">
     <!-- Navigation -->
     <!-- Note: navbar-default and navbar-inverse are both supported with this theme. -->
@@ -394,9 +376,10 @@
             </div>
         </div>
     </section>
-    <footer class="footer" style="background-image: url('assets/img/bg-footer.jpg')" id="social">
+    <header class="footer video" id="social">
+      <div class="overlay"></div>
         <div class="container text-center">
-            <div class="row">
+            <div class="row intro-content">
                 <div class="col-md-4 contact-details social">
                   <ul class="list-inline">
                       <h4><i class="fa fa-share-square"></i> Social Media</h4>
@@ -424,7 +407,8 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </header>
+
     <!-- Portfolio Modals -->
     <!-- Example Modal 1 -->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" style="background-image: url('assets/img/creative/portfolio/bg-1.jpg')">

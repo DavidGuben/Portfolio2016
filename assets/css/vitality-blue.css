@@ -23,6 +23,9 @@ section {
   color: white;
   background-color: #222222;
 }
+#social {
+  z-index: -100;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;

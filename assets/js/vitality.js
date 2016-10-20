@@ -1,8 +1,4 @@
-/*!
- * Vitality v1.3.5 (http://themes.startbootstrap.com/vitality-v1.3.5)
- * Copyright 2013-2015 Start Bootstrap Themes
- * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
- */
+
 
 (function($) {
     "use strict"; // Start of use strict
@@ -87,7 +83,15 @@
     $("header.video").background({
         source: {
             poster: "assets/img/bg-mobile-fallback.jpg",
-            mp4: "assets/mp4/camera.mp4"
+            mp4: "assets/mp4/footer.mp4"
+        }
+    });
+
+    // Video function for footer
+    $("footer.video").background({
+        source: {
+            poster: "",
+            mp4: "assets/mp4/footer.mp4"
         }
     });
 
@@ -150,7 +154,7 @@ $(document).ready(function() {
     if (isPhoneDevice) {
         //mobile
     } else {
-        //desktop               
+        //desktop
         // Initialize WOW.js
         wow = new WOW({
             offset: 50

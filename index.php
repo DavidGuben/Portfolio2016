@@ -157,10 +157,10 @@
             </div>
         </div>
     </section>
-    <div class="scroll-down">
-        <a class="btn page-scroll" href="#portfolio"><i class="fa fa-angle-down fa-fw"></i></a>
-    </div>
-    <section>
+    <section id="portfolio">
+      <div class="scroll-down">
+          <a class="btn page-scroll" href="#portfolio"><i class="fa fa-angle-down fa-fw"></i></a>
+      </div>
         <div class="container text-center wow fadeIn">
             <h2>Portfolio</h2>
             <hr class="colored">

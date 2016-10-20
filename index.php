@@ -385,6 +385,8 @@
                         <div class="row">
                             <div class="form-group col-xs-12">
                                 <button type="submit" class="btn btn-outline-dark">Send</button>
+                                <br /><br/>
+                                <p>You can also contact me <a class="page-scroll" href="#social">here</i></p>
                             </div>
                         </div>
                     </form>
@@ -392,7 +394,7 @@
             </div>
         </div>
     </section>
-    <footer class="footer" style="background-image: url('assets/img/bg-footer.jpg')">
+    <footer class="footer" style="background-image: url('assets/img/bg-footer.jpg')" id="social">
         <div class="container text-center">
             <div class="row">
                 <div class="col-md-4 contact-details social">

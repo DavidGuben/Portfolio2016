@@ -79,7 +79,7 @@
                         <a class="page-scroll" href="#services">Services</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#work">Portfolio</a>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -120,7 +120,7 @@
         <div class="container-fluid">
             <div class="row text-center">
                 <div class="col-lg-12 wow fadeIn">
-                    <h1>This is what I do</h1>
+                    <h1>Services I Provide</h1>
                     <p></p>
                     <hr class="colored">
                 </div>
@@ -158,13 +158,13 @@
         </div>
     </section>
     <div class="scroll-down">
-        <a class="btn page-scroll" href="#work"><i class="fa fa-angle-down fa-fw"></i></a>
+        <a class="btn page-scroll" href="#portfolio"><i class="fa fa-angle-down fa-fw"></i></a>
     </div>
     <section>
         <div class="container text-center wow fadeIn">
             <h2>Portfolio</h2>
             <hr class="colored">
-            <p>Here are some other projects that I've worked on.</p>
+            <p>Here are some projects that I've worked on.</p>
             <div class="row content-row">
                 <div class="col-lg-12">
                     <div class="portfolio-filter">

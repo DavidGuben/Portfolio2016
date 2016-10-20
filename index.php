@@ -31,6 +31,7 @@
     <link href="assets/css/plugins/animate.css" rel="stylesheet" type="text/css">
     <link href="assets/css/vitality-blue.css" rel="stylesheet" type="text/css">
 </head>
+
 <body id="page-top">
     <!-- Navigation -->
     <!-- Note: navbar-default and navbar-inverse are both supported with this theme. -->
@@ -75,6 +76,7 @@
         </div>
         <!-- /.container -->
     </nav>
+
     <header style="background-image: url('assets/img/creative/bg-header.jpg');">
         <div class="intro-content">
             <img src="assets/img/creative/profile.png" class="img-responsive img-centered" alt="">
@@ -86,6 +88,7 @@
             <a class="btn page-scroll" href="#about"><i class="fa fa-angle-down fa-fw"></i></a>
         </div>
     </header>
+
     <section id="about">
         <div class="container wow fadeIn">
             <div class="row">
@@ -101,6 +104,7 @@
             </div>
         </div>
     </section>
+
     <section id="services" class="bg-gray">
         <div class="container-fluid">
             <div class="row text-center">
@@ -142,6 +146,7 @@
             </div>
         </div>
     </section>
+
     <section id="portfolio">
       <div class="scroll-down">
           <a class="btn page-scroll" href="#portfolio"><i class="fa fa-angle-down fa-fw"></i></a>
@@ -149,7 +154,7 @@
         <div class="container text-center wow fadeIn">
             <h2>Portfolio</h2>
             <hr class="colored">
-            <p>Here are some projects that I've worked on.</p>
+            <p>Some projects that I've worked on.</p>
             <div class="row content-row">
                 <div class="col-lg-12">
                     <div class="portfolio-filter">
@@ -179,7 +184,7 @@
 
                         <a href="http://meteortwitter.herokuapp.com" target="_blank"><div class="portfolio app" data-cat="app" target="_blank">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/identity/1.jpg" alt="">
+                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" height="265.03px" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>
@@ -338,6 +343,7 @@
             </div>
         </div>
     </section>
+
     <section id="contact">
         <div class="container wow fadeIn">
             <div class="row">
@@ -392,6 +398,7 @@
             </div>
         </div>
     </section>
+
     <header class="footer video" id="social">
       <div class="overlay"></div>
         <div class="container text-center">

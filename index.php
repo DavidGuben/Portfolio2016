@@ -30,6 +30,7 @@
     <link href="assets/css/plugins/background.css" rel="stylesheet" type="text/css">
     <link href="assets/css/plugins/animate.css" rel="stylesheet" type="text/css">
     <link href="assets/css/vitality-blue.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/custom.css" rel="stylesheet" type="text/css">
 </head>
 
 <body id="page-top">

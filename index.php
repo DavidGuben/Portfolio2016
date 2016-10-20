@@ -181,6 +181,9 @@
                             <li>
                                 <span class="filter" data-filter="web">Web</span>
                             </li>
+                            <li>
+                                <span class="filter" data-filter="app">App</span>
+                            </li>
                         </ul>
                     </div>
                 </div>

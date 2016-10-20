@@ -66,6 +66,9 @@
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
+                    <li>
+                        <a class="page-scroll" href="#social">Social Media</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -389,12 +392,16 @@
                       </li>
                       <li><a href="https://www.linkedin.com/in/david-guben-79b3063b" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
                       </li>
+                      <li><a href="https://github.com/DavidGuben" target="_blank"><i class="fa fa-github fa-fw fa-2x"></i></a>
+                      </li>
+                      <li><a href="https://www.behance.net/davidjustin" target="_blank"><i class="fa fa-behance fa-fw fa-2x"></i></a>
+                      </li>
                   </ul>
                 </div>
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-map-marker"></i> Locations</h4>
                     <p>New York City, NY </p>
-                    <p>East Brunswick, NJ</p>
+                    <p>East Brunswick, NJ </p>
                 </div>
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>

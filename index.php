@@ -176,18 +176,20 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div id="portfoliolist">
-                        <div class="portfolio identity" data-cat="identity" href="#portfolioModal1" data-toggle="modal">
+
+                        <a href="http://meteortwitter.herokuapp.com" target="_blank"><div class="portfolio app" data-cat="app" target="_blank">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/identity/1.jpg" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">Generic Inc.</a>
-                                        <span class="text-category">Brand Identity</span>
+                                        <a class="text-title">Meteor Twitter</a>
+                                        <span class="text-category">App</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
-                        </div>
+                        </div></a>
+
                         <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/1.jpg" alt="">
@@ -200,6 +202,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal3" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/1.jpg" alt="">
@@ -212,6 +215,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio web" data-cat="web" href="#portfolioModal4" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/2.jpg" alt="">
@@ -224,6 +228,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal1" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/2.jpg" alt="">
@@ -236,6 +241,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/3.jpg" alt="">
@@ -248,6 +254,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal3" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/3.jpg" alt="">
@@ -260,6 +267,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal4" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/4.jpg" alt="">
@@ -272,6 +280,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio identity" data-cat="identity" href="#portfolioModal1" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/identity/2.jpg" alt="">
@@ -284,6 +293,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/4.jpg" alt="">
@@ -296,6 +306,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal3" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/5.jpg" alt="">
@@ -308,6 +319,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="portfolio identity" data-cat="identity" href="#portfolioModal4" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/identity/3.jpg" alt="">
@@ -320,6 +332,7 @@
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
@@ -418,7 +431,7 @@
     </header>
 
     <!-- Portfolio Modals -->
-    <!-- Example Modal 1 -->
+    <!-- Modal 1 -->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true" style="background-image: url('assets/img/creative/portfolio/bg-1.jpg')">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -432,9 +445,9 @@
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2">
                             <img src="assets/img/client-logos/logo-1.png" class="img-responsive img-centered" alt="">
-                            <h2>Project Title</h2>
+                            <h2>Meteor Twitter</h2>
                             <hr class="colored">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea. Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.</p>
+                            <p>Meteor Twitter is a twitter clone I created as a personal project. It was created with: HTML, CSS, JavaScript, Node.js, React and Meteor.</p>
                         </div>
                         <div class="col-lg-12">
                             <img src="assets/img/portfolio/mobile-screens.png" class="img-responsive img-centered" alt="">

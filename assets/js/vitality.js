@@ -82,7 +82,7 @@
     // Formstone Background - Video Background Settings
     $("header.video").background({
         source: {
-            poster: "",
+            poster: "assets/img/footer-photo.jpeg",
             mp4: "assets/mp4/footer.mp4"
         }
     });

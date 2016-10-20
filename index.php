@@ -392,13 +392,14 @@
                   </ul>
                 </div>
                 <div class="col-md-4 contact-details">
-                    <h4><i class="fa fa-map-marker"></i> Location</h4>
+                    <h4><i class="fa fa-map-marker"></i> Locations</h4>
                     <p>New York City, NY </p>
+                    <p>East Brunswick, NJ</p>
                 </div>
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:davidjg6@gmail.com">davidjg6@gmail.com</a>
-                    </p>
+                    <p><a href="mailto:davidjg6@gmail.com">davidjg6@gmail.com</a></p>
+                    <p><a href="mailto:david.guben@rutgers.edu">david.guben@rutgers.edu</a></p>
                 </div>
             </div>
             <div class="row copyright">

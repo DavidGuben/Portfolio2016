@@ -1,7 +1,7 @@
-a {
+.footer a {
   color:white;
 }
 
-a:hover {
+.footer a:hover {
   color: #0a8fd5;
 }

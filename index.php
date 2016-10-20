@@ -426,7 +426,7 @@
                 </div>
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:davidjg6@gmail.com">davidjg6@gmail.com</a></p>
+                    <p><a href="mailto:davidguben@gmail.com">davidguben@gmail.com</a></p>
                     <p><a href="mailto:david.guben@rutgers.edu">david.guben@rutgers.edu</a></p>
                 </div>
             </div>

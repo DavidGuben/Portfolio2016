@@ -185,7 +185,7 @@
 
                         <a href="http://meteortwitter.herokuapp.com" target="_blank"><div class="portfolio app" data-cat="app" target="_blank">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" height="265.03px" alt="">
+                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>

@@ -78,7 +78,7 @@
         <!-- /.container -->
     </nav>
 
-    <header style="background-image: url('assets/img/creative/bg-header.jpg');">
+    <header style="background-image: url('assets/img/creative/bg-header3.jpeg');">
         <div class="intro-content">
             <img src="assets/img/creative/profile.png" class="img-responsive img-centered" alt="">
             <div class="brand-name">David Guben</div>
@@ -120,7 +120,7 @@
                     <div class="about-content">
                         <i class="fa fa-laptop fa-4x"></i>
                         <h3>Web Design</h3>
-                        <p></p>
+                        <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
@@ -185,7 +185,7 @@
 
                         <a href="http://meteortwitter.herokuapp.com" target="_blank"><div class="portfolio app" data-cat="app" target="_blank">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" alt="">
+                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" height="265.03px" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>

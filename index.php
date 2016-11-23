@@ -120,28 +120,28 @@
                     <div class="about-content">
                         <i class="fa fa-laptop fa-4x"></i>
                         <h3>Web Design</h3>
-                        <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality</p>
+                        <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
                     <div class="about-content">
                         <i class="fa fa-code fa-4x"></i>
                         <h3>Web Development</h3>
-                        <p></p>
+                        <p>I develop the layout and User Interface with the focus on user interaction. I make sure the user has a pleasant experience when visiting your site.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
                     <div class="about-content">
                         <i class="fa  fa-share-square-o fa-4x"></i>
                         <h3>App Development</h3>
-                        <p></p>
+                        <p>If your looking to create an app version of your site or have a clever idea for an application I can help bring it to life.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".8s">
                     <div class="about-content">
                         <i class="fa fa-paint-brush fa-4x"></i>
                         <h3>Graphic Design</h3>
-                        <p></p>
+                        <p>If you need design work created from logos to business cards, I create them quick and easily. I keep great attention to detail to deliver the best possible design.</p>
                     </div>
                 </div>
             </div>
@@ -183,9 +183,10 @@
                 <div class="col-lg-12">
                     <div id="portfoliolist">
 
-                        <a href="http://meteortwitter.herokuapp.com" target="_blank"><div class="portfolio app" data-cat="app" target="_blank">
+                        <a href="http://meteortwitter.herokuapp.com" target="_blank">
+                          <div class="portfolio app" data-cat="app">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" height="265.03px" alt="">
+                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>
@@ -194,7 +195,8 @@
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
-                        </div></a>
+                        </div>
+                      </a>
 
                         <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
                             <div class="portfolio-wrapper">

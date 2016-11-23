@@ -120,7 +120,7 @@
                     <div class="about-content">
                         <i class="fa fa-laptop fa-4x"></i>
                         <h3>Web Design</h3>
-                        <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality</p>
+                        <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
@@ -183,7 +183,8 @@
                 <div class="col-lg-12">
                     <div id="portfoliolist">
 
-                        <a href="http://meteortwitter.herokuapp.com" target="_blank"><div class="portfolio app" data-cat="app" target="_blank">
+                        <a href="http://meteortwitter.herokuapp.com" target="_blank">
+                          <div class="portfolio app" data-cat="app">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" alt="">
                                 <div class="caption">
@@ -194,7 +195,8 @@
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
-                        </div></a>
+                        </div>
+                      </a>
 
                         <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
                             <div class="portfolio-wrapper">

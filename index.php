@@ -78,7 +78,7 @@
         <!-- /.container -->
     </nav>
 
-    <header style="background-image: url('assets/img/creative/bg-header3.jpeg');">
+    <header style="background-image: url('assets/img/creative/bg-header-04.jpg');">
         <div class="intro-content">
             <img src="assets/img/creative/profile.png" class="img-responsive img-centered" alt="">
             <div class="brand-name">David Guben</div>

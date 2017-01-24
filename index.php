@@ -47,7 +47,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <img src="assets/img/creative/logo.png" class="img-responsive" alt="">
+                    <!-- <img src="assets/img/creative/logo.png" class="img-responsive" alt=""> -->
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -80,7 +80,7 @@
 
     <header style="background-image: url('assets/img/creative/bg-header-04.jpg');">
         <div class="intro-content">
-            <img src="assets/img/creative/profile.png" class="img-responsive img-centered" alt="">
+            <!-- <img src="assets/img/creative/profile.png" class="img-responsive img-centered" alt=""> -->
             <div class="brand-name">David Guben</div>
             <hr class="colored">
             <div class="brand-name-subtext">Full-Stack Web Developer</div>
@@ -94,13 +94,13 @@
         <div class="container wow fadeIn">
             <div class="row">
                 <div class="col-md-6">
-                    <img src="assets/img/creative/about.jpg" class="img-responsive" alt="">
+                    <img src="assets/img/creative/about-headshot.jpg" class="img-responsive" alt="">
                 </div>
                 <div class="col-md-6 text-center">
                     <h1>Hi, I'm David Guben</h1>
                     <hr class="colored">
-                    <p>I am a freelance web/app designer and developer based in NYC. I am a self-taught professional with a background in web design and full-stack development.</p>
-                    <p>I'm available for graphic design, web design, web development and app development. You can contact me <a class="page-scroll" href="#contact">here</a>.</p>
+                    <p>I am a freelance web/app designer and developer based in NYC. I am a self-taught professional with a background in web design and full-stack development.</p><hr/>
+                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development. You can contact me <a class="page-scroll" href="#contact">here</a> for further inquiries.</p>
                 </div>
             </div>
         </div>
@@ -110,7 +110,7 @@
         <div class="container-fluid">
             <div class="row text-center">
                 <div class="col-lg-12 wow fadeIn">
-                    <h1>Services I Provide</h1>
+                    <h1 class="service-title">Services I Provide</h1>
                     <p></p>
                     <hr class="colored">
                 </div>
@@ -118,29 +118,29 @@
             <div class="row text-center content-row">
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".2s">
                     <div class="about-content">
-                        <i class="fa fa-laptop fa-4x"></i>
-                        <h3>Web Design</h3>
+                        <i class="fa fa-laptop fa-4x" style="color:#2855A6;"></i>
+                        <h3 class="service-title">Web Design</h3>
                         <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
                     <div class="about-content">
-                        <i class="fa fa-code fa-4x"></i>
-                        <h3>Web Development</h3>
+                        <i class="fa fa-code fa-4x" style="color:#2855A6;"></i>
+                        <h3 class="service-title">Web Development</h3>
                         <p>I develop the layout and User Interface with the focus on user interaction. I make sure the user has a pleasant experience when visiting your site.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
                     <div class="about-content">
-                        <i class="fa  fa-share-square-o fa-4x"></i>
-                        <h3>App Development</h3>
+                        <i class="fa  fa-share-square-o fa-4x" style="color:#2855A6;"></i>
+                        <h3 class="service-title">App Development</h3>
                         <p>If your looking to create an app version of your site or have a clever idea for an application I can help bring it to life.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".8s">
                     <div class="about-content">
-                        <i class="fa fa-paint-brush fa-4x"></i>
-                        <h3>Graphic Design</h3>
+                        <i class="fa fa-paint-brush fa-4x" style="color:#2855A6;"></i>
+                        <h3 class="service-title">Graphic Design</h3>
                         <p>If you need design work created from logos to business cards, I create them quick and easily. I keep great attention to detail to deliver the best possible design.</p>
                     </div>
                 </div>

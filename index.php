@@ -184,9 +184,9 @@
                     <div id="portfoliolist">
 
                         <a href="http://meteortwitter.herokuapp.com" target="_blank">
-                          <div class="portfolio app" data-cat="app">
+                          <div class="portfolio app" data-cat="app" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/app/meteor-twitter-bg.png" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>
@@ -200,7 +200,7 @@
 
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/web/1.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Brands</a>
@@ -213,7 +213,7 @@
 
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/graphic/1.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Excellence</a>
@@ -226,7 +226,7 @@
 
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/web/2.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">YouTV</a>
@@ -239,7 +239,7 @@
 
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/graphic/2.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Office Supplies</a>
@@ -252,7 +252,7 @@
 
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/web/3.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Fooder</a>
@@ -265,7 +265,7 @@
 
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/graphic/3.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Mountain Tea</a>
@@ -278,7 +278,7 @@
 
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/graphic/4.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Checkmark</a>
@@ -291,7 +291,7 @@
 
                         <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/identity/2.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Demish</a>
@@ -304,7 +304,7 @@
 
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/web/4.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">OneRepublic</a>
@@ -317,7 +317,7 @@
 
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/graphic/5.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Postable</a>
@@ -330,7 +330,7 @@
 
                         <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets/img/portfolio/grid/identity/3.jpg" alt="">
+                                <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Simpli Nota</a>

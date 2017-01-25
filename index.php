@@ -198,7 +198,7 @@
                         </div>
                       </a>
 
-                        <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/1.jpg" alt="">
                                 <div class="caption">
@@ -211,7 +211,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal3" data-toggle="modal">
+                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/1.jpg" alt="">
                                 <div class="caption">
@@ -224,7 +224,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio web" data-cat="web" href="#portfolioModal4" data-toggle="modal">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/2.jpg" alt="">
                                 <div class="caption">
@@ -237,7 +237,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal1" data-toggle="modal">
+                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/2.jpg" alt="">
                                 <div class="caption">
@@ -250,7 +250,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/3.jpg" alt="">
                                 <div class="caption">
@@ -263,7 +263,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal3" data-toggle="modal">
+                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/3.jpg" alt="">
                                 <div class="caption">
@@ -276,7 +276,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal4" data-toggle="modal">
+                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/4.jpg" alt="">
                                 <div class="caption">
@@ -289,7 +289,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio identity" data-cat="identity" href="#portfolioModal1" data-toggle="modal">
+                        <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/identity/2.jpg" alt="">
                                 <div class="caption">
@@ -302,7 +302,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio web" data-cat="web" href="#portfolioModal2" data-toggle="modal">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/web/4.jpg" alt="">
                                 <div class="caption">
@@ -315,7 +315,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio graphic" data-cat="graphic" href="#portfolioModal3" data-toggle="modal">
+                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/graphic/5.jpg" alt="">
                                 <div class="caption">
@@ -328,7 +328,7 @@
                             </div>
                         </div>
 
-                        <div class="portfolio identity" data-cat="identity" href="#portfolioModal4" data-toggle="modal">
+                        <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets/img/portfolio/grid/identity/3.jpg" alt="">
                                 <div class="caption">
@@ -406,7 +406,7 @@
       <div class="overlay"></div>
         <div class="container text-center">
             <div class="row intro-content">
-                <div class="col-md-4 contact-details social">
+                <div class="col-md-6 contact-details social">
                   <ul class="list-inline">
                       <h4><i class="fa fa-share-square"></i> Social Media</h4>
                       <li><a href="https://www.facebook.com/dguben" target="_blank"><i class="fa fa-facebook fa-fw fa-2x"></i></a>
@@ -421,15 +421,9 @@
                       </li>
                   </ul>
                 </div>
-                <div class="col-md-4 contact-details">
-                    <h4><i class="fa fa-map-marker"></i> Locations</h4>
-                    <p>New York City, NY </p>
-                    <p>East Brunswick, NJ </p>
-                </div>
-                <div class="col-md-4 contact-details">
+                <div class="col-md-6 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:davidguben@gmail.com">davidguben@gmail.com</a></p>
-                    <p><a href="mailto:david.guben@rutgers.edu">david.guben@rutgers.edu</a></p>
+                    <p><a href="mailto:davidjg6@gmail.com">davidguben@gmail.com</a></p>
                 </div>
             </div>
             <div class="row copyright">

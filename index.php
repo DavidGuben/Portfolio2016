@@ -198,6 +198,7 @@
                         </div>
                       </a>
 
+                      <a href="http://search-cannon.herokuapp.com" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">
@@ -210,7 +211,7 @@
                                 </div>
                             </div>
                         </div>
-
+                      </a>
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">

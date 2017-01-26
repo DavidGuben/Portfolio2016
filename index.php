@@ -197,20 +197,20 @@
                             </div>
                         </div>
                       </a>
-
+                        <a href="http://search-cannon.herokuapp.com/" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">Brands</a>
-                                        <span class="text-category">Web Development</span>
+                                        <a class="text-title">Search Cannon</a>
+                                        <span class="text-category">Search Engine</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
                         </div>
-
+                      </a>
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">

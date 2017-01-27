@@ -184,7 +184,7 @@
                     <div id="portfoliolist">
 
                         <a href="http://meteortwitter.herokuapp.com" target="_blank">
-                          <div class="portfolio app" data-cat="app" data-toggle="modal">
+                          <div class="portfolio web" data-cat="web" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets\img\portfolio\grid\web\meteor-twitter-portfolio-thumbnail.png" alt="meteor twitter">
                                 <div class="caption">

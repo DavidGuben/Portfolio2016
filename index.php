@@ -198,7 +198,7 @@
                         </div>
                       </a>
 
-                      <a href="http://search-cannon.herokuapp.com" target="_blank">
+                      <a href="http://searchcannon2017.herokuapp.com" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">

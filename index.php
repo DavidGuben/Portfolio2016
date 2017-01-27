@@ -205,25 +205,28 @@
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Search Cannon</a>
-                                        <span class="text-category">Search Engine</span>
+                                        <span class="text-category">API Search Engine</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
                         </div>
                       </a>
+
+                      <a href="http://www.rituchopra.com" target="_blank">
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
+                                <img src="assets\img\portfolio\grid\web\ritu-chopra-portfolio-thumbnail.png" alt="rituchopra.com">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">Excellence</a>
-                                        <span class="text-category">Poster Design</span>
+                                        <a class="text-title">RituChopra.com</a>
+                                        <span class="text-category">Website</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
                         </div>
+                      </a>
 
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">

@@ -120,28 +120,28 @@
                     <div class="about-content">
                         <i class="fa fa-laptop fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">Web Design</h3>
-                        <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality.</p>
+                        <p>Beautiful websites tailored to your brand designed to stand out.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
                     <div class="about-content">
                         <i class="fa fa-code fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">Web Development</h3>
-                        <p>I develop the layout and User Interface with the focus on user interaction. I make sure the user has a pleasant experience when visiting your site.</p>
+                        <p>All sites can either be hand-coded or implemented as a WordPress theme.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
                     <div class="about-content">
                         <i class="fa  fa-share-square-o fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">App Development</h3>
-                        <p>If your looking to create an app version of your site or have a clever idea for an application I can help bring it to life.</p>
+                        <p>Apps are avaiable for iOS and Android or as a Web App.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".8s">
                     <div class="about-content">
                         <i class="fa fa-paint-brush fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">Graphic Design</h3>
-                        <p>If you need design work created from logos to business cards, I create them quick and easily. I keep great attention to detail to deliver the best possible design.</p>
+                        <p>Business cards, flyers and any print design content are tailored to fit the entire identity of your brand or business.</p>
                     </div>
                 </div>
             </div>
@@ -257,7 +257,7 @@
                             </div>
                         </div>
                       </a>
-                      
+
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">

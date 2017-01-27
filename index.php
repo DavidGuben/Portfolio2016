@@ -228,19 +228,22 @@
                         </div>
                       </a>
 
+                      <a href="#">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
+                                <img src="assets\img\portfolio\grid\web\nodeNews-portfolio-thumbnail.png" alt="nodeNews">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">YouTV</a>
-                                        <span class="text-category">Web Development</span>
+                                        <a class="text-title">nodeNews</a>
+                                        <span class="text-category">News Aggregator</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
                         </div>
+                      </a>
 
+                      <a href="#">
                         <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">
@@ -253,7 +256,8 @@
                                 </div>
                             </div>
                         </div>
-
+                      </a>
+                      
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="http://placehold.it/400x300" alt="">

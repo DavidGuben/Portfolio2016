@@ -186,7 +186,7 @@
                         <a href="http://meteortwitter.herokuapp.com" target="_blank">
                           <div class="portfolio app" data-cat="app" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets\img\portfolio\grid\web\meteor-twitter-portfolio-thumbnail.png" alt="">
+                                <img src="assets\img\portfolio\grid\web\meteor-twitter-portfolio-thumbnail.png" alt="meteor twitter">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>
@@ -201,7 +201,7 @@
                       <a href="http://searchcannon2017.herokuapp.com" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
+                                <img src="assets\img\portfolio\grid\web\search-cannon-portfolio-thumbnail.png" alt="search cannon">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Search Cannon</a>

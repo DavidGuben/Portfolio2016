@@ -190,7 +190,7 @@
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>
-                                        <span class="text-category">App</span>
+                                        <span class="text-category">Web App</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
@@ -214,7 +214,7 @@
                       </a>
 
                       <a href="http://www.rituchopra.com" target="_blank">
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets\img\portfolio\grid\web\ritu-chopra-portfolio-thumbnail.png" alt="rituchopra.com">
                                 <div class="caption">

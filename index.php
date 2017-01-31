@@ -255,7 +255,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>Contact Me</h2>
                     <hr class="colored">
-                    <p> Let's collaborate, contact me for work opportunities and let's bring that idea to life.</p>
+                    <p> Let's collaborate, contact me for work opportunities so we can bring that idea to life.</p>
                 </div>
             </div>
             <div class="row content-row">

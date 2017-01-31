@@ -228,7 +228,7 @@
                         </div>
                       </a>
 
-                      <a href="https://nodenews2017.herokuapp.com/">
+                      <a href="https://nodenews2017.herokuapp.com/" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets\img\portfolio\grid\web\NYT-search-portfolio-thumbnail.png" alt="nodeNews">

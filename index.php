@@ -228,13 +228,13 @@
                         </div>
                       </a>
 
-                      <a href="#">
+                      <a href="https://nodenews2017.herokuapp.com/">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets\img\portfolio\grid\web\NYT-search-portfolio-thumbnail.png" alt="nodeNews">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">nodeNews</a>
+                                        <a class="text-title">NYT Article Finder</a>
                                         <span class="text-category">News Aggregator</span>
                                     </div>
                                     <div class="caption-bg"></div>

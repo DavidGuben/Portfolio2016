@@ -155,7 +155,7 @@
         <div class="container text-center wow fadeIn">
             <h2>Portfolio</h2>
             <hr class="colored">
-            <p>Some projects that I've worked on.</p>
+            <p>My proud accomplishments.</p>
             <div class="row content-row">
                 <div class="col-lg-12">
                     <div class="portfolio-filter">
@@ -243,112 +243,6 @@
                         </div>
                       </a>
 
-                      <a href="#">
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Office Supplies</a>
-                                        <span class="text-category">Graphic Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-                      </a>
-
-                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Fooder</a>
-                                        <span class="text-category">Mobile App</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Mountain Tea</a>
-                                        <span class="text-category">Graphic Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Checkmark</a>
-                                        <span class="text-category">Graphic Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Demish</a>
-                                        <span class="text-category">Brand Identity</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">OneRepublic</a>
-                                        <span class="text-category">Web Development</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Postable</a>
-                                        <span class="text-category">Graphic Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Simpli Nota</a>
-                                        <span class="text-category">Brand Identity</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>
@@ -361,7 +255,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>Contact Me</h2>
                     <hr class="colored">
-                    <p>I like to hear about work opportunities! Send me a message and I will respond as soon as possible.</p>
+                    <p> Let's collaborate, contact me for work opportunities and let's bring that idea to life.</p>
                 </div>
             </div>
             <div class="row content-row">

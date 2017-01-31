@@ -231,7 +231,7 @@
                       <a href="#">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets\img\portfolio\grid\web\nodeNews-portfolio-thumbnail.png" alt="nodeNews">
+                                <img src="assets\img\portfolio\grid\web\NYT-search-portfolio-thumbnail.png" alt="nodeNews">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">nodeNews</a>

@@ -99,8 +99,8 @@
                 <div class="col-md-6 text-center">
                     <h1>Hi, I'm David Guben</h1>
                     <hr class="colored">
-                    <p>I am a freelance web/app designer and developer based in NYC. I am a self-taught professional with a background in web design and full-stack development.</p><hr/>
-                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development. You can contact me <a class="page-scroll" href="#contact">here</a> for further inquiries.</p>
+                    <p>I am a freelance web/app designer and developer based in NYC. I am a professional with certifications in Full-Stack Web Development, Web Design and Animation.</p><hr/>
+                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development. You can contact me <a class="page-scroll" href="#contact">here</a> for any inquiries.</p>
                 </div>
             </div>
         </div>
@@ -325,12 +325,12 @@
                 </div>
                 <div class="col-md-6 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:davidjg6@gmail.com">davidguben@gmail.com</a></p>
+                    <p><a href="mailto:davidguben@gmail.com">davidguben@gmail.com</a></p>
                 </div>
             </div>
             <div class="row copyright">
                 <div class="col-lg-12">
-                    <p class="small">&copy; 2016 David Guben</p>
+                    <p class="small">&copy; 2017 David Guben</p>
                 </div>
             </div>
         </div>

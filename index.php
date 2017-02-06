@@ -258,7 +258,7 @@
                         </div>
                       </a>
 
-                      <a href="http://www.pawsnposecuttery.com" target="_blank">
+                      <a href="https://burger-database-sequelize.herokuapp.com/burgers" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets\img\portfolio\grid\web\Burger-Sequelize-Portfolio-Thumbnail.png" alt="nodeNews">

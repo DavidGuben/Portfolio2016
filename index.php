@@ -99,8 +99,8 @@
                 <div class="col-md-6 text-center">
                     <h1>Hi, I'm David Guben</h1>
                     <hr class="colored">
-                    <p>I am a freelance web/app designer and developer based in NYC. I am a self-taught professional with a background in web design and full-stack development.</p><hr/>
-                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development. You can contact me <a class="page-scroll" href="#contact">here</a> for further inquiries.</p>
+                    <p>I am a freelance web/app designer and developer based in NYC. I am a professional with certification in Full-Stack Web Development, Web Design and Animation.</p><hr/>
+                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development. You can contact me <a class="page-scroll" href="#contact">here</a> for any inquiries.</p>
                 </div>
             </div>
         </div>
@@ -120,28 +120,28 @@
                     <div class="about-content">
                         <i class="fa fa-laptop fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">Web Design</h3>
-                        <p>I focus on the look, layout and features of a website to design a beautiful representation of your business, cause or personality.</p>
+                        <p>Beautiful websites tailored to your brand designed to stand out.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".4s">
                     <div class="about-content">
                         <i class="fa fa-code fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">Web Development</h3>
-                        <p>I develop the layout and User Interface with the focus on user interaction. I make sure the user has a pleasant experience when visiting your site.</p>
+                        <p>All sites can either be hand-coded or implemented as a WordPress theme.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
                     <div class="about-content">
                         <i class="fa  fa-share-square-o fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">App Development</h3>
-                        <p>If your looking to create an app version of your site or have a clever idea for an application I can help bring it to life.</p>
+                        <p>Apps are avaiable for iOS and Android or as a Web App.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".8s">
                     <div class="about-content">
                         <i class="fa fa-paint-brush fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">Graphic Design</h3>
-                        <p>If you need design work created from logos to business cards, I create them quick and easily. I keep great attention to detail to deliver the best possible design.</p>
+                        <p>Business cards, flyers and any print design content are tailored to fit the entire identity of your brand or business.</p>
                     </div>
                 </div>
             </div>
@@ -155,7 +155,7 @@
         <div class="container text-center wow fadeIn">
             <h2>Portfolio</h2>
             <hr class="colored">
-            <p>Some projects that I've worked on.</p>
+            <p>My proud accomplishments.</p>
             <div class="row content-row">
                 <div class="col-lg-12">
                     <div class="portfolio-filter">
@@ -184,13 +184,13 @@
                     <div id="portfoliolist">
 
                         <a href="http://meteortwitter.herokuapp.com" target="_blank">
-                          <div class="portfolio app" data-cat="app" data-toggle="modal">
+                          <div class="portfolio web" data-cat="web" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
+                                <img src="assets\img\portfolio\grid\web\meteor-twitter-portfolio-thumbnail.png" alt="meteor twitter">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Meteor Twitter</a>
-                                        <span class="text-category">App</span>
+                                        <span class="text-category">Web App</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
@@ -198,9 +198,10 @@
                         </div>
                       </a>
                         <a href="http://search-cannon.herokuapp.com/" target="_blank">
+                      <a href="http://searchcannon2017.herokuapp.com" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
+                                <img src="assets\img\portfolio\grid\web\search-cannon-portfolio-thumbnail.png" alt="search cannon">
                                 <div class="caption">
                                     <div class="caption-text">
                                         <a class="text-title">Search Cannon</a>
@@ -244,102 +245,43 @@
                                     <div class="caption-text">
                                         <a class="text-title">Office Supplies</a>
                                         <span class="text-category">Graphic Design</span>
+                                        <span class="text-category">API Search Engine</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
                         </div>
+                      </a>
 
+                      <a href="http://www.rituchopra.com" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
+                                <img src="assets\img\portfolio\grid\web\ritu-chopra-portfolio-thumbnail.png" alt="rituchopra.com">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">Fooder</a>
-                                        <span class="text-category">Mobile App</span>
+                                        <a class="text-title">RituChopra.com</a>
+                                        <span class="text-category">Website</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
                         </div>
+                      </a>
 
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Mountain Tea</a>
-                                        <span class="text-category">Graphic Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Checkmark</a>
-                                        <span class="text-category">Graphic Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Demish</a>
-                                        <span class="text-category">Brand Identity</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
+                      <a href="https://nodenews2017.herokuapp.com/" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
+                                <img src="assets\img\portfolio\grid\web\NYT-search-portfolio-thumbnail.png" alt="nodeNews">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">OneRepublic</a>
-                                        <span class="text-category">Web Development</span>
+                                        <a class="text-title">NYT Article Finder</a>
+                                        <span class="text-category">News Aggregator</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
                             </div>
                         </div>
-
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Postable</a>
-                                        <span class="text-category">Graphic Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio identity" data-cat="identity" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Simpli Nota</a>
-                                        <span class="text-category">Brand Identity</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
+                      </a>
 
                     </div>
                 </div>
@@ -353,7 +295,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>Contact Me</h2>
                     <hr class="colored">
-                    <p>I like to hear about work opportunities! Send me a message and I will respond as soon as possible.</p>
+                    <p> Let's collaborate, contact me for work opportunities so we can bring that idea to life.</p>
                 </div>
             </div>
             <div class="row content-row">
@@ -423,12 +365,12 @@
                 </div>
                 <div class="col-md-6 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:davidjg6@gmail.com">davidguben@gmail.com</a></p>
+                    <p><a href="mailto:davidguben@gmail.com">davidguben@gmail.com</a></p>
                 </div>
             </div>
             <div class="row copyright">
                 <div class="col-lg-12">
-                    <p class="small">&copy; 2016 David Guben</p>
+                    <p class="small">&copy; 2017 David Guben</p>
                 </div>
             </div>
         </div>

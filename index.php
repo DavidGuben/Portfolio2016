@@ -243,8 +243,6 @@
                         </div>
                       </a>
 
-<<<<<<< HEAD
-=======
                       <a href="http://www.pawsnposecuttery.com" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
@@ -260,20 +258,16 @@
                         </div>
                       </a>
 
->>>>>>> 272851b884dc74457b90661fa95c4ce2fbdd2d32
                       <a href="https://burger-database-sequelize.herokuapp.com/burgers" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
                                 <img src="assets\img\portfolio\grid\web\Burger-Sequelize-Portfolio-Thumbnail.png" alt="nodeNews">
                                 <div class="caption">
                                     <div class="caption-text">
-<<<<<<< HEAD
                                         <a class="text-title">NYT Article Finder</a>
                                         <span class="text-category">News Aggregator</span>
-=======
                                         <a class="text-title">Burger Time</a>
                                         <span class="text-category">Food Ordering Via Database (Sequelize)</span>
->>>>>>> 272851b884dc74457b90661fa95c4ce2fbdd2d32
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>

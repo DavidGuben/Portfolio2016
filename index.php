@@ -258,6 +258,21 @@
                         </div>
                       </a>
 
+                      <a href="https://burger-database-sequelize.herokuapp.com/burgers" target="_blank">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
+                            <div class="portfolio-wrapper">
+                                <img src="assets\img\portfolio\grid\web\Burger-Sequelize-Portfolio-Thumbnail.png" alt="nodeNews">
+                                <div class="caption">
+                                    <div class="caption-text">
+                                        <a class="text-title">Burger Time</a>
+                                        <span class="text-category">Food Ordering Via Database (Sequelize)</span>
+                                    </div>
+                                    <div class="caption-bg"></div>
+                                </div>
+                            </div>
+                        </div>
+                      </a>
+
                     </div>
                 </div>
             </div>

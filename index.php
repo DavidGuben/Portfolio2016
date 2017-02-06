@@ -197,7 +197,7 @@
                             </div>
                         </div>
                       </a>
-                        <a href="http://search-cannon.herokuapp.com/" target="_blank">
+
                       <a href="http://searchcannon2017.herokuapp.com" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
@@ -206,46 +206,6 @@
                                     <div class="caption-text">
                                         <a class="text-title">Search Cannon</a>
                                         <span class="text-category">Search Engine</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-                      </a>
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Excellence</a>
-                                        <span class="text-category">Poster Design</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">YouTV</a>
-                                        <span class="text-category">Web Development</span>
-                                    </div>
-                                    <div class="caption-bg"></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="portfolio graphic" data-cat="graphic" href="#" data-toggle="modal">
-                            <div class="portfolio-wrapper">
-                                <img src="http://placehold.it/400x300" alt="">
-                                <div class="caption">
-                                    <div class="caption-text">
-                                        <a class="text-title">Office Supplies</a>
-                                        <span class="text-category">Graphic Design</span>
-                                        <span class="text-category">API Search Engine</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>
@@ -276,6 +236,21 @@
                                     <div class="caption-text">
                                         <a class="text-title">NYT Article Finder</a>
                                         <span class="text-category">News Aggregator</span>
+                                    </div>
+                                    <div class="caption-bg"></div>
+                                </div>
+                            </div>
+                        </div>
+                      </a>
+
+                      <a href="http://www.pawsnposecuttery.com" target="_blank">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
+                            <div class="portfolio-wrapper">
+                                <img src="assets\img\portfolio\grid\web\PNPC-Portfolio-Thumbnail.png" alt="nodeNews">
+                                <div class="caption">
+                                    <div class="caption-text">
+                                        <a class="text-title">Paws N' Pose Cuttery</a>
+                                        <span class="text-category">Mobile Dog Grooming Company</span>
                                     </div>
                                     <div class="caption-bg"></div>
                                 </div>

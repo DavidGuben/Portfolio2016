@@ -243,6 +243,21 @@
                         </div>
                       </a>
 
+                      <a href="https://burger-database-sequelize.herokuapp.com/burgers" target="_blank">
+                        <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
+                            <div class="portfolio-wrapper">
+                                <img src="assets\img\portfolio\grid\web\Burger-Sequelize-Portfolio-Thumbnail.png" alt="nodeNews">
+                                <div class="caption">
+                                    <div class="caption-text">
+                                        <a class="text-title">NYT Article Finder</a>
+                                        <span class="text-category">News Aggregator</span>
+                                    </div>
+                                    <div class="caption-bg"></div>
+                                </div>
+                            </div>
+                        </div>
+                      </a>
+
                     </div>
                 </div>
             </div>

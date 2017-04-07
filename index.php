@@ -358,6 +358,7 @@
                 <div class="col-md-6 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
                     <p><a href="mailto:davidguben@gmail.com">davidguben@gmail.com</a></p>
+                    <p><a href="mailto:davidjg6@gmail.com">davidjg6@gmail.com</a></p>
                 </div>
             </div>
             <div class="row copyright">

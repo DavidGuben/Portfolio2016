@@ -78,7 +78,7 @@
         <!-- /.container -->
     </nav>
 
-    <header style="background-image: url('assets/img/creative/bg-header-04.jpg');">
+    <header style="background-image: url('assets/img/creative/bg-header-05.jpg');">
         <div class="intro-content">
             <!-- <img src="assets/img/creative/profile.png" class="img-responsive img-centered" alt=""> -->
             <div class="brand-name">David Guben</div>
@@ -132,14 +132,14 @@
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".6s">
                     <div class="about-content">
-                        <i class="fa  fa-share-square-o fa-4x" style="color:#2855A6;"></i>
+                        <i class="fa  fa-mobile-phone fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">App Development</h3>
                         <p>Apps are avaiable for iOS and Android or as a Web App.</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 wow fadeIn" data-wow-delay=".8s">
                     <div class="about-content">
-                        <i class="fa fa-paint-brush fa-4x" style="color:#2855A6;"></i>
+                        <i class="fa fa-picture-o fa-4x" style="color:#2855A6;"></i>
                         <h3 class="service-title">Graphic Design</h3>
                         <p>Business cards, flyers and any print design content are tailored to fit the entire identity of your brand or business.</p>
                     </div>
@@ -155,10 +155,10 @@
         <div class="container text-center wow fadeIn">
             <h2>Portfolio</h2>
             <hr class="colored">
-            <p>My proud accomplishments.</p>
+            <p>My proud accomplishments from print work and web work.</p>
             <div class="row content-row">
                 <div class="col-lg-12">
-                    <div class="portfolio-filter">
+                    <!--<div class="portfolio-filter">
                         <ul id="filters" class="clearfix">
                             <li>
                                 <span class="filter active" data-filter="identity graphic logo web">All</span>
@@ -176,7 +176,7 @@
                                 <span class="filter" data-filter="app">App</span>
                             </li>
                         </ul>
-                    </div>
+                    </div>-->
                 </div>
             </div>
             <div class="row">
@@ -261,11 +261,9 @@
                       <a href="https://burger-database-sequelize.herokuapp.com/burgers" target="_blank">
                         <div class="portfolio web" data-cat="web" href="#" data-toggle="modal">
                             <div class="portfolio-wrapper">
-                                <img src="assets\img\portfolio\grid\web\Burger-Sequelize-Portfolio-Thumbnail.png" alt="nodeNews">
+                                <img src="assets\img\portfolio\grid\web\Burger-Sequelize-Portfolio-Thumbnail.png" alt="Burger Time">
                                 <div class="caption">
                                     <div class="caption-text">
-                                        <a class="text-title">NYT Article Finder</a>
-                                        <span class="text-category">News Aggregator</span>
                                         <a class="text-title">Burger Time</a>
                                         <span class="text-category">Food Ordering Via Database (Sequelize)</span>
                                     </div>
@@ -277,7 +275,7 @@
 
                     </div>
                 </div>
-            </div>
+            </div> <!-- Portfilio 'row' closing tag-->
         </div>
     </section>
 

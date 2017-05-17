@@ -99,8 +99,9 @@
                 <div class="col-md-6 text-center">
                     <h1>Hi, I'm David Guben</h1>
                     <hr class="colored">
-                    <p>I am a freelance web/app designer and developer based in NYC. I am a professional with certification in Full-Stack Web Development, Web Design and Animation.</p><hr/>
-                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development. You can contact me <a class="page-scroll" href="#contact">here</a> for any inquiries.</p>
+                    <p>I work as a freelance web/app designer and developer based in NY. I am a professional with certification in Full-Stack Web Development, Web Design and Animation.</p><hr/>
+                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development.</p><hr/>
+                    <p>You can contact me <a class="page-scroll" href="#contact">here</a> for any inquiries.</p>
                 </div>
             </div>
         </div>

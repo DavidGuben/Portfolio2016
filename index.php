@@ -89,6 +89,7 @@
             <div class="brand-name-subtext">Full-Stack Web Developer</div>
         </div>
         <div class="scroll-down">
+            <p style="color: white">Learn more about me</p>
             <a class="btn page-scroll" href="#about"><i class="fa fa-angle-down fa-fw"></i></a>
         </div>
     </header>

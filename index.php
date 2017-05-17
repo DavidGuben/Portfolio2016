@@ -57,6 +57,9 @@
                         <a class="page-scroll" href="#page-top"></a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="https://drive.google.com/open?id=0BxnjKAKnwsr3ZFA4RHdTam5KM3M" target="_blank">Resume</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
@@ -99,8 +102,8 @@
                 <div class="col-md-6 text-center">
                     <h1>Hi, I'm David Guben</h1>
                     <hr class="colored">
-                    <p>I work as a freelance web/app designer and developer based in NY. I am a professional with certification in Full-Stack Web Development, Web Design and Animation.</p><hr/>
-                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development.</p><hr/>
+                    <p>I work as a freelance web/app designer/developer based in NY. I am a professional with certification in Full-Stack Web Development, Web Design and Animation.</p><hr/>
+                    <p>I'm available for Graphic Design, Web Design, Web Development and App Development. I have a keen eye for design and hold a Full-Stack Web Development certification from Rutgers. I use the most cutting edge programming languages to develop apps (Android and iOS) or websites quickly and efficiently.</p><hr/>
                     <p>You can contact me <a class="page-scroll" href="#contact">here</a> for any inquiries.</p>
                 </div>
             </div>
